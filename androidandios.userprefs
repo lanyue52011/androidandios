@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{06563898-9A4D-42C8-8BDF-AC2891C91FF5}|Default">
+  <MonoDevelop.Ide.ItemProperties.androidandios.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus_5X_API_25" AndroidDesignerPreferredTheme="MasterDetailTheme" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/ViewControllers/BrowseViewController.cs">
+    <Files>
+      <File FileName="iOS/:Users:tab:Desktop:CShap:androidandios:iOS:MyCollectionView.cs" Line="18" Column="32" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="androidandios/Interfaces/IMessageDialog.cs" Line="1" Column="1" />
+      <File FileName="androidandios/Models/BaseDataObject.cs" Line="1" Column="1" />
+      <File FileName="androidandios/Models/Item.cs" Line="1" Column="1" />
+      <File FileName="androidandios/Services/CloudDataStore.cs" Line="1" Column="1" />
+      <File FileName="androidandios/Services/IDataStore.cs" Line="1" Column="1" />
+      <File FileName="iOS/ViewControllers/AboutViewController.cs" Line="1" Column="1" />
+      <File FileName="iOS/ViewControllers/BrowseViewController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.androidandios.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.311330E2-0239-4F28-889A-92C79D93ABF4" />
+</Properties>
