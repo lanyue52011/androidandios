@@ -1,2 +1,2 @@
 # androidandios
-C#  IOS Android
+C# 开发Android和IOS示例
